@@ -1,0 +1,5 @@
+echo "Last program's return value: $?"
+echo "Script PID: $$"
+echo "Number of arguments: $#"
+echo "All arguments: $@"
+echo "Script arguments: $1 $2..."
