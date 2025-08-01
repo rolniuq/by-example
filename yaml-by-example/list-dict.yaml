@@ -1,0 +1,11 @@
+- Blue Car:
+  Model:
+    Name: Civic
+    Year: 2020
+  Price: 10000
+
+- Red Car:
+  Model:
+    Name: Mustang
+    Year: 2021
+  Price: 20000

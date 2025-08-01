@@ -1,0 +1,9 @@
+Fruits: #key
+  - Banana: #item of array as map
+      Calories: 96
+      Fat: 0.2
+      Carbohydrates: 23
+      Protein: 1
+
+  - Grapes:
+      Calories: 60

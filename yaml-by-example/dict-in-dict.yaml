@@ -1,0 +1,7 @@
+# A dict
+Color: Blue
+Model: # A dict
+  Name: Civic
+  Year: 2020
+Transmission: Automatic
+Price: 10000
