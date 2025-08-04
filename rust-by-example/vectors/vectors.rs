@@ -23,4 +23,15 @@ fn main() {
         vec_capacity,
         vec_capacity.capacity()
     );
+
+    let vec_iter: Vec<i32> = (0..5).collect();
+    println!("vec_iter: {:?}", vec_iter);
+
+    let third: &i32 = &v[2];
+    println!("third element of v: {}", third);
+
+    let does_not_exist = &v[10];
+    match does_not_exist {
+        Some(value) => println!("")
+    }
 }
