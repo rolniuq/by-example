@@ -4,6 +4,7 @@ metadata:
   name: myapp
   labels:
     app: myapp
+    type: front-end
 spec:
   containers:
     - name: nginx

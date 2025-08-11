@@ -1,0 +1,5 @@
+in docker: ip address assigned to container
+in k8s: ip address assigned to pod
+
+all containers/pods can communicate to one another without NAT
+all nodes can communicate with all containers and vice versa without NAT
